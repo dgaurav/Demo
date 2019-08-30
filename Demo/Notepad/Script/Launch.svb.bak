@@ -1,0 +1,11 @@
+﻿Sub Launch
+   Dim WshShell
+   Set WshShell = CreateObject("Wscript.Shell")
+   wshShell.run("c:\windows\notepad.exe")
+   Call aqObject.CheckProperty(Aliases.notepad.wndNotepad, "WndCaption", cmpEqual, "Untitled - Notepad")
+   Call Aliases.notepad.wndNotepad.Close
+End Sub
+
+Sub Test1
+  
+End Sub

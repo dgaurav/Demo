@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{63C23CDE-C4B9-412C-A3E6-19239CDA99D1}">
+	<children>
+		<child name="Notepad" key="{772954FB-CA3D-4191-9FE4-AAB35DB396D2}" path="Notepad\Notepad.mds" />
+	</children>
+	<testItems key="{205D19F0-E5DC-4A82-8437-D6CFFEB96EAB}">
+		<children>
+			<testItem key="{772954FB-CA3D-4191-9FE4-AAB35DB396D2}" enabled="True" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{AC06AF5B-12D2-43BA-8CCA-A89C97D1ECD0}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{2A842F02-D4A1-4A0D-ABC5-F9B93333E307}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>

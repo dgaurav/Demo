@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Launch" key="{CF2DC885-8D18-4EC3-84A0-0BEB4368306A}" path="Launch.svb" />
+	</children>
+</Root>
